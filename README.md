@@ -1,7 +1,7 @@
 # admit-orders
-Admit to Medicine
-NPO
-2 large bore IV
-Out of bed as tolerated
-Labs bid: CBC, BMP, INR
-Page 12345 with questions
+Admit to Medicine <br>
+NPO <br>
+2 large bore IV <br>
+Out of bed as tolerated <br>
+Labs bid: CBC, BMP, INR <br>
+Page 12345 with questions <br>
