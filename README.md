@@ -5,3 +5,8 @@ NPO <br>
 Out of bed as tolerated <br>
 Labs bid: CBC, BMP, INR <br>
 Page 12345 with questions <br>
+
+vitals <br>
+activity <br>
+allergies <br>
+nursing <br>
